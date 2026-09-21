@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>index.html</loc>
+    </url>
+    <url>
+        <loc>services/santehnika.html</loc>
+    </url>
+    <url>
+        <loc>services/elektrika.html</loc>
+    </url>
+    <url>
+        <loc>services/mebel.html</loc>
+    </url>
+    <url>
+        <loc>services/krepyozh.html</loc>
+    </url>
+    <url>
+        <loc>services/bytovoi-remont.html</loc>
+    </url>
+    <url>
+        <loc>services/tehnika.html</loc>
+    </url>
+</urlset>
